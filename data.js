@@ -97,13 +97,13 @@ const JOURNEY = [
   {
     year: '2025', end: 'Jul', chapter: '04',
     en: {
-      region: 'Shenzhen',
+      region: 'Beijing',
       title: 'TikTok Shop · Cross-Border Full-Service Operator',
       body: 'First role after returning: ran end-to-end cross-border e-commerce accounts on TikTok Shop. Compressed everything I knew about audience, logistics, and content into one shipping lane.',
       meta: ['Full-Service Ops', 'Cross-border'],
     },
     zh: {
-      region: '深圳',
+      region: '北京',
       title: 'TikTok Shop · 跨境全托管运营',
       body: '回国后的第一份工作：在 TikTok Shop 做端到端的跨境电商账号运营，把对受众、物流、内容的理解全部压缩进一条履约链路。',
       meta: ['全托管运营', '跨境电商'],
@@ -202,7 +202,7 @@ const WORK = [
     en: {
       org: 'TikTok Shop',
       role: 'Cross-border E-commerce · Full-Service Operator',
-      location: 'Shenzhen · Remote',
+      location: 'Beijing · Changping',
       stack: ['Account build-out', 'Content localization', 'Shipping-lane ops'],
       statusLabel: 'Shipped',
       periodLabel: '2025 Jul → 2025',
@@ -210,7 +210,7 @@ const WORK = [
     zh: {
       org: 'TikTok Shop',
       role: '跨境电商 · 全托管运营',
-      location: '深圳 · 远程',
+      location: '北京 · 昌平',
       stack: ['店铺从 0 到 1', '内容本地化', '履约链路运营'],
       statusLabel: '已交付',
       periodLabel: '2025.07 → 2025',
